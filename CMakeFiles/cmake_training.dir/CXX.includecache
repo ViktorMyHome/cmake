@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/osboxes/git/training/cmake/add.cpp
+add.h
+/home/osboxes/git/training/cmake/add.h
+
+/home/osboxes/git/training/cmake/add.h
+
+/home/osboxes/git/training/cmake/main.cpp
+cstring
+-
+iostream
+-
+add.h
+/home/osboxes/git/training/cmake/add.h
+sub.h
+/home/osboxes/git/training/cmake/sub.h
+
+/home/osboxes/git/training/cmake/sub.cpp
+sub.h
+/home/osboxes/git/training/cmake/sub.h
+
+/home/osboxes/git/training/cmake/sub.h
+

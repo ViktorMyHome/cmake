@@ -1,3 +1,0 @@
-/home/osboxes/git/training/cmake/CMakeFiles/rebuild_cache.dir
-/home/osboxes/git/training/cmake/CMakeFiles/edit_cache.dir
-/home/osboxes/git/training/cmake/CMakeFiles/cmake_training.dir

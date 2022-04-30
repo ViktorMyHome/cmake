@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/cmake_training.dir/main.cpp.o CMakeFiles/cmake_training.dir/add.cpp.o CMakeFiles/cmake_training.dir/sub.cpp.o  -o cmake_training 
